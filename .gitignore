@@ -1,0 +1,6 @@
+__Previews/
+History/
+* Logs*
+*.DSNlck
+*.raw
+6.Simulacoes/**/*.log
